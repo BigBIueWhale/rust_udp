@@ -1,0 +1,8 @@
+[package]
+name = "rust_udp"
+version = "0.1.0"
+authors = ["user"]
+edition = "2018"
+
+[dependencies]
+tokio = { version = "1.24.2", features = ["full"] }
